@@ -1,0 +1,237 @@
+
+/*Extra small devices (portrait phones, less than 576px )*/
+@media (max-width: 575.98px){
+
+	body{
+		background-image: none;
+	}
+
+	
+}
+
+/*Small devices (landscape phones, 576px and up )*/
+@media (min-width: 576px) and (max-width: 767.98px){
+
+	body{
+		background-image: none;
+	}
+
+	/* baneer section */
+
+		.banner{}
+		.banner h1{
+		    margin: 40px 0 0 50px;
+		    font-size: 44px;
+		}
+
+
+		.banner button{
+		    margin: 15px 0 10px 80px;
+		}
+
+
+
+	/* section 2*/
+
+		.pera1{
+		    padding: 18px;
+		    font-size: 16px;
+		    margin-left: 10px;
+		}
+
+		.pera2{
+		    padding: 18px;
+		    font-size: 16px;
+		    margin-top: 70px;
+		}
+
+		.section2 h1{
+		    font-size: 2rem;
+		    margin-top: 18px;
+
+		}
+
+
+	/* section 3*/
+
+		.section3{
+		    margin-top: 85px;
+		}
+
+		.section3_text{
+		    margin-top: 0px;
+		}
+
+	/* section 4*/
+
+		.section4{
+		    margin-top: 35px;
+		}
+
+		.section4_text{
+		    margin-top: 0px;
+		}
+
+	/* section 5*/
+
+		.section5{
+		    margin-top: 35px;
+		}
+
+		.section5_text{
+		    margin-top: 0px;
+		}
+
+	/* section 6*/
+
+		.section6{
+		    margin-top: 75px;
+		}
+
+		.section6_text{
+		    margin-top: 0px;
+		}
+
+	/* section 7*/
+
+		.section7{
+		    margin-top: 55px;
+		}
+
+		.section7_text{
+		    margin-top: 0px;
+		}
+
+	/* Brand logo sec. */
+
+		.brand_logo{
+		    margin-top: 60px;
+		}
+
+	/*contract section*/
+
+		.contract{
+		    margin-top: 120px;
+		}
+
+}
+
+/*Medium devices (tablets, 768px and up )*/
+@media (min-width: 576px) and (max-width: 991.98px){
+
+	/* baneer section */
+
+		.banner{}
+		.banner h1{
+		    margin: 50px 0 0 60px;
+		    font-size: 44px;
+		}
+
+
+		.banner button{
+		    margin: 20px 0 15px 90px;
+		}
+
+
+
+	/* section 2*/
+
+		.pera1{
+		    padding: 18px;
+		    font-size: 16px;
+		    margin-left: 25px;
+		}
+
+		.pera2{
+		    padding: 18px;
+		    font-size: 16px;
+		    margin-top: 130px;
+		}
+
+		.section2 h1{
+		    font-size: 2rem;
+		    margin-top: 50px;
+
+		}
+
+
+	/* section 3*/
+
+		.section3{
+		    margin-top: 190px;
+		}
+
+		.section3_text{
+		    margin-top: 0px;
+		}
+
+	/* section 4*/
+
+		.section4{
+		    margin-top: 300px;
+		}
+
+		.section4_text{
+		    margin-top: 0px;
+		}
+
+	/* section 5*/
+
+		.section5{
+		    margin-top: 70px;
+		}
+
+		.section5_text{
+		    margin-top: 0px;
+		}
+
+	/* section 6*/
+
+		.section6{
+		    margin-top: 270px;
+		}
+
+		.section6_text{
+		    margin-top: 0px;
+		}
+
+	/* section 7*/
+
+		.section7{
+		    margin-top: 100px;
+		}
+
+		.section7_text{
+		    margin-top: 0px;
+		}
+
+	/* Brand logo sec. */
+
+		.brand_logo{
+		    margin-top: 250px;
+		}
+
+	/*contract section*/
+
+		.contract{
+		    margin-top: 160px;
+		}
+
+
+}
+
+/*Large devices (Desktops, 992px and up )*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+
+	/* section 4*/
+
+		.section4{
+		    margin-top: 300px;
+		}
+	
+}
+
+/*Extra large devices (Large Desktop, 1200px and up )*/
+@media (min-width: 1200px){
+	
+}

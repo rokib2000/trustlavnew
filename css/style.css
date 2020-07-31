@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('../img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    margin: 0px;
+}
+
+.nav_color{
+    color:  #5E48FF !important;
+}
+
+
+/* baneer section */
+
+.banner{}
+.banner h1{
+    margin: 80px 0 0 100px;
+    color: #6651FF;
+    font-size: 55px;
+}
+
+
+.banner button{
+    margin: 30px 0 0 160px;
+    background-color: #6651FF;
+    color: #fff;
+}
+
+
+
+/* section 2*/
+
+.pera1{
+    background-color: #6752FF;
+    padding: 35px;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.pera2{
+    padding: 35px;
+    font-size: 20px;
+    color: #6954FF;
+    margin-top: 140px;
+}
+
+.section2 h1{
+        text-align: center;
+    color: #6752FF;
+    font-size: 3rem;
+    margin-top: 35px;
+
+}
+
+/* section 3*/
+
+.section3{
+    margin-top: 170px;
+}
+
+.sl_num{
+    color: #6752FF;
+}
+
+.section3_text{
+    margin-top: 50px;
+}
+.section3 img{}
+
+.btn_all{
+    background-color: #6651FF;
+    color: #fff;
+}
+
+
+/* section 4*/
+
+.section4{
+    margin-top: 150px;
+}
+
+.section4_text{
+    margin-top: 50px;
+}
+
+/* section 5*/
+
+.section5{
+    margin-top: 70px;
+}
+
+.section5_text{
+    margin-top: 50px;
+}
+
+/* section 6*/
+
+.section6{
+    margin-top: 150px;
+}
+
+.section6_text{
+    margin-top: 100px;
+}
+
+/* section 7*/
+
+.section7{
+    margin-top: 110px;
+}
+
+.section7_text{
+    margin-top: 50px;
+}
+
+/* Brand logo sec. */
+
+.brand_logo{
+    margin-top: 120px;
+}
+
+.brand_logo i{
+    color: #6651FF;
+}
+
+
+/*contract section*/
+
+.contract{
+    margin-top: 240px;
+}
+
+.contract h5{
+    color: #6651FF;
+}
